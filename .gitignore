@@ -1,0 +1,21 @@
+.ini
+
+# from_email = 'web@ittti.co.jp'
+# to_email = '170fe837@st.nufs.ac.jp'
+# msg_subject = 'アテンダンスシート確認のお願い　Shin'
+# msg_text = '''
+# <html>
+#     <body>
+#         <p>お疲れ様です。<br>
+#         アルバイトの紳です。<br>
+#         本日の出席シートの確認をよろしくお願いいたします。<br>
+#         互換性の問題のため、スクリーンショットを添付しました。<br>
+#         毎度お手数をおかけし、申し訳ございません。
+#         よろしくお願いします。<br>
+#         </p>
+#         <p>Shin</p>
+#     </body>
+# </html>'''
+#
+# attachment_item_dir = "/Users/shinyamaga/Desktop/ckc/"
+# attachment_item_name = "Attendance_Shin"
