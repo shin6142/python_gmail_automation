@@ -38,8 +38,7 @@ class MailBot(object):
     def run(self):
         if not os.path.exists(self.config_file):
             self.execute_create_config()
-        self.execute_send_mail()
-        # schedule.every().day.at("21:45").do(self.execute_send_mail)
+        schedule.every().day.at(contents.send_time).do(self.execute_send_mail)
         while True:
             schedule.run_pending()
             time.sleep(1)
