@@ -14,7 +14,7 @@ msg_text = '''
     </body>
 </html>'''
 
+send_time = "21:50"
 attachment_item_dir = "directory_path that has the image"
 # ex)/Users/user/Desktop/image_dir/
 attachment_item_name = "The image's name attached to email"
-
