@@ -1,13 +1,13 @@
 # python_gmail_automation
 
-###Note: This project is for python practice purpose.
+### Note: This project is for python practice purpose.
 
-##Overview
-- [Introduction](#introduction)
-- [Technical overview](#Technical Overview)
-- [Usage](#Usage) 
-- [How it works](#How it works)
-- [Background (Why this project was build)](#Background(Why this project was build))
+## Overview
+- [Introduction] 
+- [Technical overview]
+- [Usage]
+- [How it works]
+- [Background (Why this project was build)]
 
 ## Introduction
 ### This program automates a fixed email submission with images(png).
